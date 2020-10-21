@@ -1,1 +1,1 @@
-# MSOLab
+# MSOLab – Modelling, Simulation & Optimization Laboratory
